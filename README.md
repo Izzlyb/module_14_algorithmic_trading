@@ -6,7 +6,8 @@ Implementation of Module 14 challenge about algorithmic trading
 Due Wednesday by 11:59pm Points 100 
 
 ## Background
-For this Challenge, you’ll assume the role of a financial advisor at one of the top five financial advisory firms in the world. Your firm constantly competes with the other major 
+For this Challenge, you’ll assume the role of a financial advisor at one of the top five 
+financial advisory firms in the world. Your firm constantly competes with the other major 
 firms to manage and automatically trade assets in a highly dynamic environment. In recent 
 years, your firm has heavily profited by using computer algorithms that can buy and sell 
 faster than human traders.
@@ -20,7 +21,8 @@ to new data.
 
 ## What You're Creating
 You’ll combine your new algorithmic trading skills with your existing skills in financial Python 
-programming and machine learning to create an algorithmic trading bot that learns and adapts to new data and evolving markets.
+programming and machine learning to create an algorithmic trading bot that learns and adapts to 
+new data and evolving markets.
 
 In a Jupyter notebook, you’ll do the following:
 
@@ -32,7 +34,8 @@ In a Jupyter notebook, you’ll do the following:
     + Train a new machine learning model and compare its performance to that 
     of a baseline model.
 
-As part of the README.md file in your GitHub repository, you’ll also create a report that compares the performance of the machine learning models based on the trading predictions 
+As part of the README.md file in your GitHub repository, you’ll also create a report that compares 
+the performance of the machine learning models based on the trading predictions 
 that each makes and the resulting cumulative strategy returns.
 
 ## Files
