@@ -211,3 +211,10 @@ To receive all points, your code must
     
 # Submission
 To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+
+
+
+# Create an Evaluation Report
+
+We tried a neural network model as a second alternative to predict the price of the stock and we could not find the same level of accuracy in the prediction. The SVM model worked much better.
+We even provided more indicator to analyze the trend and this did not help the learning model achive better performance.
